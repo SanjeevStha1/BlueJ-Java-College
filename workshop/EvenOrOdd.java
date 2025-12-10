@@ -1,4 +1,4 @@
-package Workshop;
+package workshop;
 import java.util.Scanner;
 
 
